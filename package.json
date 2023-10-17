@@ -1,12 +1,12 @@
 {
   "name": "groovify",
   "version": "1.0.0",
-  "description": "",
+  "description": "Building a command-line inventory app project 'groovify' that generates data sets of stream numbers, song titles, artist names and if there are remixes avail.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "MarlonPelau",
   "license": "ISC"
 }
