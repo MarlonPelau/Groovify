@@ -28,7 +28,7 @@ module.exports = [
       "remixed": true
     },
     {
-      "id": "rAsTai",
+      "id": "rAsTaf",
       "artistName": "Steel Pulse",
       "songTitle": "Throne of Gold",
       "numOfStreams": "100006",
