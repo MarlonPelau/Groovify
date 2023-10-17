@@ -20,7 +20,8 @@ Making sense for the 'groovify' app I've created, my data set has the following 
 -Number
 
 For example, here's how you should use and understand the following:
-- `id`: a unique id (for eg. 'PE').
+- `id`: a unique id (for eg. 'pEnOne').
+- `artistName`: "Public Enemy"
 - `songTitle`: "Fight The Power".
 - `remixed`: a boolean for whether the song was remixed, or not.
 - `numOfStreams`: the number of streams per song.
