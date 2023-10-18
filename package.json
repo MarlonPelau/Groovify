@@ -4,9 +4,17 @@
   "description": "Building a command-line inventory app project 'groovify' that generates data sets of stream numbers, song titles, artist names and if there are remixes avail.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "index": "node index.js index",
+    "create": "node index.js create",
+    "show": "node index.js show",
+    "update": "node index.js update",
+    "destroy": "node index.js destroy",
+    "score": "node index.js score"
   },
   "keywords": [],
   "author": "MarlonPelau",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nanoid": "^3.3.6"
+  }
 }
